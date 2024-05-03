@@ -1,1 +1,2 @@
 # DNA-PKcs
+To explore the ADMET of the found active compounds, and obtain the clue for future compounds refinements, we use the online ADMET(https://admetlab3.scbdd.com/server/evaluation) to predict the 3 active compounds(5025-0002, M769-1095, V008-1080). Only by providing the simile of the compounds, we can obtain lots of information about the ADMET of these compounds, and it gives clues for us to further design the compounds.
